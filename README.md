@@ -7,5 +7,5 @@ I've always enjoyed working on both software development and data platform engin
 Reach out to me at :
 - [Link to my CV](https://pavank63.github.io/assets/resume.pdf)
 - [Linkedin](https://www.linkedin.com/in/pavankalyan63/)
-- ASU Email: pcherup1@asu.edu
+- ASU Email: [pcherup1@asu.edu](mailto:pcherup1@asu.edu)
 - Secondary Email: pavankalyan.cherupally@gmail.com
